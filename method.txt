@@ -1,1 +1,2 @@
 1. write a list
+2. stage file
